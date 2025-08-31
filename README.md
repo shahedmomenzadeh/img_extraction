@@ -111,8 +111,3 @@ books_output/
 
 Pull requests and issue reports are welcome.
 
-## License
-Include your preferred open-source license here (e.g., MIT). Add a LICENSE file at the project root if needed.
-
-## Contact / Attribution
-This repository is intended for research and prototyping. Adapt prompts, validation rules, and models to your domain and privacy requirements.
