@@ -12,6 +12,7 @@ A lightweight pipeline to extract figures and captions from PDFs, generate conci
 - Batch processing of multiple PDFs in a directory.
 
 ## Architecture
+![Pipeline Graph](graph.png)
 - Core script: `img_extraction.py` — orchestrates the workflow using a StateGraph.
 - Nodes (stages): prepare_page, pop_item, extract_caption, extract_description, validate_content, clean_description, save_item, increment_page.
 - LLM call abstraction with support for multiple providers via environment variables and per-node overrides.
