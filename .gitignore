@@ -6,3 +6,5 @@ venv/
 # virtual environment
 .env
 
+# ignoring pycache
+__pycache__/
