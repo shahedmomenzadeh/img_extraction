@@ -33,7 +33,6 @@ python -m venv .venv
 source .venv/bin/activate      # or .venv\Scripts\activate on Windows
 pip install -r requirements.txt
 ```
-(There is no shipped requirements.txt — create one with the packages you need.)
 
 ## Environment variables
 Configure credentials and defaults via environment variables (use a `.env` file or export in your shell).
