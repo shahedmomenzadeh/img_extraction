@@ -1,0 +1,8 @@
+# folders
+Books/
+books_output/
+venv/
+
+# virtual environment
+.env
+

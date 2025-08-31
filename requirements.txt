@@ -1,0 +1,6 @@
+PyMuPDF
+requests
+python-dotenv
+langgraph
+groq
+openai
